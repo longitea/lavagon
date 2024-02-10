@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": true,
+  "attachmentFolderPath": "image",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "image/"
+  ]
+}
