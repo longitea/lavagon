@@ -6,5 +6,7 @@
   "obsidian-checklist-plugin",
   "obsidian-admonition",
   "emoji-shortcodes",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "obsidian-importer",
+  "dbfolder"
 ]

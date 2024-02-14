@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e265db4b03670977",
+        "id": "e2cef3d16f5e2c43",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7a7af5dbe2507a",
+            "id": "0bf0b342b771a5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subject.md",
+                "file": "Sự sở hữu/Sự sở hữu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subject.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,6 +142,21 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b61b5a9751ab73c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12f09b312fc8e6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -164,24 +175,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "publish:Publish changes...": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3d2ebac3e56cf30a",
+  "active": "e12f09b312fc8e6e",
   "lastOpenFiles": [
-    "Icon\r",
-    "lazy but fun.png",
+    "Sự sở hữu/Sự sở hữu.md",
+    "Sự sở hữu/Possessive form of nouns.md",
+    "Sự sở hữu/possessive adjective.md",
     "Đại từ chủ ngữ.md",
-    "Pronoun.md",
-    "Sở hữu cách.md",
+    "Sở hữu/sự sở hữu.md",
+    "image/Untitled 1 4.png",
+    "image/Untitled 14.png",
+    "image/Untitled 2 3.png",
+    "image/Untitled 1 3.png",
+    "image/Untitled 13.png",
+    "image/Untitled 12.png",
+    "image/Untitled 11.png",
+    "image/Untitled 10.png",
+    "image/Untitled 9.png",
+    "image/Untitled 8.png",
+    "Sự sở hữu/Subject Possessive.md",
+    "Sự sở hữu/Subject Possessive",
+    "Sự sở hữu/possessive adjective",
+    "Sự sở hữu/Possessive form of nouns",
+    "Sự sở hữu",
+    "Notion",
+    "file này vừa thêm.md",
+    "Sở hữu",
+    "Canva.canvas",
+    "Home.md",
     "Subject.md",
-    "image/CleanShot 2024-02-06 at 19.49.59.png",
+    "Sở hữu cách.md",
+    "Icon\r",
+    "Pronoun.md",
     "từ loại.md",
-    "image/CleanShot 2024-02-03 at 14.14.27@2x.png",
-    "image/CleanShot 2024-02-06 at 16.49.01@2x.png",
-    "CleanShot 2024-02-06 at 16.47.47@2x.png",
-    "CleanShot 2024-02-06 at 16.47.06@2x.png",
-    "image/CleanShot 2024-02-03 at 13.37.10@2x.png",
     "image",
     "create a link.md",
     "Welcome.md",
