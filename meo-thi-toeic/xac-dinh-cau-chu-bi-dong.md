@@ -1,4 +1,8 @@
-# 💡 Mẹo
+---
+description: sử dụng trong trường hợp không biết nghĩa thôi
+---
+
+# xác định câu chủ - bị động
 
 ## Câu bị động - câu chủ động
 
@@ -20,5 +24,5 @@ The coffee is already made
 
 </details>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>từ sau on (là thông tin thêm về thời gian và địa điểm)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>từ sau on (là thông tin thêm về thời gian và địa điểm)</p></figcaption></figure>
 

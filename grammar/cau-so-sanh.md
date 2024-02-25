@@ -1,4 +1,4 @@
-# So sánh
+# Câu So sánh
 
 Có 3 loại so sánh
 
@@ -30,7 +30,7 @@ They launched the new product as **successfully** as the previous one.
 
 ## So sánh hơn
 
-<figure><img src=".gitbook/assets/CleanShot 2024-01-02 at 16.11.21@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-01-02 at 16.11.21@2x.png" alt=""><figcaption></figcaption></figure>
 
 so sánh hơn có 2 trường hợp
 

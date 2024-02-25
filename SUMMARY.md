@@ -1,14 +1,19 @@
 # Table of contents
 
-* [chắc là cụm động từ](README.md)
-* [Adjectives](adjectives.md)
-* [Trạng từ](trang-tu.md)
-* [So sánh](so-sanh.md)
+## 💅 Từ loại
+
+* [list cụm động từ phổ biến](README.md)
+* [Adjectives](tu-loai/adjectives.md)
+* [Trạng từ](tu-loai/trang-tu.md)
+
+## Grammar
+
+* [Câu So sánh](grammar/cau-so-sanh.md)
+
+## 😈 Mẹo thi Toeic
+
+* [xác định câu chủ - bị động](meo-thi-toeic/xac-dinh-cau-chu-bi-dong.md)
 
 ## Util
 
 * [common sentence](util/common-sentence.md)
-
-***
-
-* [💡 Mẹo](meo.md)
