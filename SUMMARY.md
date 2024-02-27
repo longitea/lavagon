@@ -13,6 +13,7 @@
 ## 😈 Mẹo thi Toeic
 
 * [xác định câu chủ - bị động](meo-thi-toeic/xac-dinh-cau-chu-bi-dong.md)
+* [Cấu trúc câu đặc biệt](meo-thi-toeic/cau-truc-cau-dac-biet.md)
 
 ## Util
 
